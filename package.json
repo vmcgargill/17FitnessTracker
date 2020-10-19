@@ -4,10 +4,9 @@
   "description": "An app that keeps track of exercises",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node seeders/seed.js",
     "start": "node app.js",
-    "watch": "nodemon app.js",
-    "seed": "node seeders/seed.js"
+    "watch": "nodemon app.js"
   },
   "author": "Vincent J McGargill",
   "license": "ISC",
