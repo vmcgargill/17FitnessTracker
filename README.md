@@ -1,4 +1,4 @@
-# 17FitnessTracker
+# FitnessTracker
 
 Heroku Deplyed Link: https://vinces-fitness-tracker.herokuapp.com/
 
